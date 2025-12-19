@@ -1,0 +1,4 @@
+Radius at cloud base of A : 1.085 mm
+Radius at cloud base of B : 0.890 mm
+Radius at cloud base of C : 2.482 mm
+Radius at cloud base of D : 2.090 mm
